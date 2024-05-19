@@ -1,4 +1,4 @@
-# Python IA 🧠
+# Cadastro de Usuários 🧠
 
 ## O que é o projeto?
 - Um sistema simples de **cadastro de usuários** em uma base de dados, focado no uso do framework **Django** para a criação de sites com **front-end** e **back-end** unidos (HTML, CSS, Python)
